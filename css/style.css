@@ -154,7 +154,7 @@ body {
 }
 
 #hero {
-  background: url(../assets/banner-1.jpg);
+  background: url(/assets/banner-1.jpg);
   height: 90vh;
   width: 100%;
   background-size: cover;
